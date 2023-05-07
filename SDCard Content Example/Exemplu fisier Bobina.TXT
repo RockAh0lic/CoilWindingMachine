@@ -1,0 +1,16 @@
+PNP        -----> Nume Bobina
+0.50       -----> Diametru Fir
+85         -----> Numar spire per trecere
+6          -----> Numar treceri
+10.00      -----> Viteza NEMA34 (Nefolosit in cod)
+
+--------------------------------------------------
+
+In fisierul "COILS.TXT" pe prima linie va fi mereu "0", iar pe cea de-a doua linie
+se va afla numarul de bobine salvate pe cardul SD, acesta va trebui modificat manual 
+in urma modificarii fisierelor in care sunt salvate bobinele.
+
+De asemenea, fisierele in care sunt salvate bobinele vor fi denumite "i.TXT", unde
+i este inclus in intervalul {1...numarul total de bobine}
+
+Fisierul "MENU.txt" nu va fi modificat pentru buna functionare a aparatului

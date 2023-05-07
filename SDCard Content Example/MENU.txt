@@ -1,0 +1,5 @@
+Select Coil
+Add Coil
+Coil Free Spin
+Move Carrige
+Start Coil
